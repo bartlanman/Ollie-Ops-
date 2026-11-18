@@ -36,3 +36,20 @@ Nothing was changed in either QuickBooks company.
 
 ## Resolved 2026-11-18
 Bart approved invoicing the two missing deliveries at QBO item prices, with the original dates: **#205373799 (id 73682) 2026-02-12 $3,846.00** and **#205373800 (id 73683) 2026-10-15 $2,113.75**. Basic City→Zymurgy 2026 total is now $48,453.95 over 16 invoices, one for each Zymurgy→RVA invoice. Still to do: add the Ollie-missing lines (Feb 2 Gringo sixtels; Oct 7 Cactus Garden 12oz, 3 Golden Child 12oz) to Ollie RVA Basic City.
+
+## Zymurgy -> Basic City cash, 2026 (checked 2026-11-18 against Zymurgy QBO bank feed, account 151 QuickBooks Checking)
+| Zymurgy bank date | Amount | Basic City record | Status |
+|---|---|---|---|
+| (2025-12-10) | $7,133.40 | deposit 66978 was coded QB LOAN; JE ZS-ADJ-2025-12 (73688) + payment 73689 | applied 11/18 |
+| 2026-01-28 | $5,991.18 | payment 67805 | applied |
+| 2026-03-11 | $5,496.68 | payment 69063 | applied |
+| 2026-04-06 | $9,101.43 | payment 69890 | applied |
+| **2026-05-12** | **$1,850.00** | **deposit 70552 (5/13, TRANSFER INTUIT CCD METALCRAFT BREW) coded to "cash advance repayment", memo CHANDLER CC; paired with $1,850 Employee Tips card charge 70551** | **not applied to Zymurgy; ask Bart** |
+| 2026-08-02 | $6,970.00 | deposit 71530 was QB LOAN; now payment 73687 | applied 11/18 |
+| 2026-09-16 | $10,000.00 | payment 72723 | applied |
+| 2026-11-08 | $8,474.00 | payments 73684/73685/73686 (11/9) | applied 11/18 |
+| **2026 total** | **$47,883.29** | | |
+
+Not counted: "Instant Transfer to card ending 8654" ($1,000 3/18, $1,000 4/1, $5,000 6/16, $1,000 11/17). Zymurgy has booked these as Shareholder Distributions in the past; they did not go to Basic City checking.
+Zymurgy own books: every one of these outflows is still uncategorized in its bank feed (88 rows For Review), so its QBO shows no beer cost.
+Basic City A/R from Zymurgy after the 11/18 applications: $5,996.34 (7/30 $1,590.09, 10/15 $2,113.75, 11/5 $2,292.50); $4,146.34 if the $1,850 is a Zymurgy payment.
