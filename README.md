@@ -27,3 +27,9 @@ Working knowledge base for an AI agent that audits, cleans up and automates the 
 ## Status (2026-11-07)
 - Audit complete; QuickBooks disconnected — waiting on reconnect before cleanup.
 - UI walkthrough partly done (tank menu, Update Volume, Transfer, Packaging).
+
+## RVA Basic City — settled, do not ask again (Bart, 2026-11-18)
+RVA Basic City / Bask RVA LLC is a **franchise**. Basic City sells it beer and collects royalties. Beer goes **Basic City -> Zymurgy Synergy -> Bask RVA / RVA Basic City**, and **Zymurgy Synergy pays Basic City** for the beer. QBO: beer invoiced to customer **Zymurgy Synergy-PO (729)**; royalties invoiced to **Bask RVA LLC**. Ollie: the same beer is logged to customer **RVA Basic City**. Real third-party sales, never internal transfers, not taproom volume.
+
+## QuickBooks changes log
+- `reference/qbo-changes-2026-11-18.md`: everything changed in QuickBooks on 2026-11-18 (taproom back-fill JEs, Victory Amex recode, double-booking cleanups, setup).
