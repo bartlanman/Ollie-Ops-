@@ -31,3 +31,6 @@ QBO effect (once reconnected): JE debit Finished Goods, credit W.I.P. + packagin
 - **Disconnected, and on hold by Bart until the inventory cleanup is done (2026-11-18).** Do not click Connect.
 - While disconnected, packaging runs and $0 invoices change Ollie only; nothing posts to QBO. Expect a catch-up and a tie-out (Inventory Value report vs QBO inventory accounts) after reconnecting.
 - When reconnecting, confirm Finished Goods maps to **1300900 Finished Goods - Beer** (not the unused 1301900 Finished Kegs), and check whether "Automatically sync packaged inventory" (item-based mode) is on. It should stay off, because the QBO beer items are Service items.
+
+## RVA Basic City customer (confirmed 2026-11-18)
+RVA Basic City (Bask RVA LLC) is a franchise. Beer goes Basic City -> Zymurgy Synergy (wholesaler) -> RVA, and Zymurgy Synergy pays Basic City. In Ollie keep logging it to customer **RVA Basic City**; in QuickBooks it is invoiced to **Zymurgy Synergy-PO**. It is a real sale, not a taproom transfer. 2026 check: Ollie RVA 188.7 bbl vs QBO Zymurgy 165.3 bbl, so about 23 bbl to reconcile.
