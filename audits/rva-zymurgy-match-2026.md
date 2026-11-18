@@ -73,3 +73,13 @@ Bart 2026-11-18: the "Instant Transfer to card ending 8654" rows in Zymurgy are 
 - **Left pending:**
   - row 234, the 5/12 $1,850 Metalcraft ACH. Waiting on how Basic City books it: deposit 70552 is currently "cash advance repayment / CHANDLER CC".
   - 72 feed rows from 2022-2025, not touched.
+
+## $1,850 resolved, 2026-11-18 (Bart: "1 2 3")
+- First Bank x2000 confirms **May 13 TRANSFER INTUIT CCD METALCRAFT BREW +$1,850.00**. It is the only $1,850.00 item Apr 3 - Nov 18; the $1,850.65 items are CNB of WV loan payments.
+- Basic City:
+  - New **Payment 73691** (Zymurgy, 5/13, $1,850) applied $1,590.09 to 7/30 invoice 70502 and $259.91 to Oct 15 invoice 73683.
+  - **Deposit 70552** recoded: its cash-advance line is zeroed and the deposit now carries payment 73691.
+  - Zymurgy A/R is **$4,146.34**.
+- Zymurgy: feed row 234 matched as **bill payment 521** to bills 488 ($1,590.09) and 492 ($259.91). A/P to Basic City is **$4,146.34**.
+- **NOT voided:** Amex/card expense 70551 ($1,850, 5/12, "CHANDLER CC", Employee Tips) is a real bank-feed line, **"ONLINE VSA XXXXX0001 CHARLOTTESVIL VA"**, and was reconciled in the 5/15 card reconciliation (session 416). It stays until Bart says what it was.
+- Side effect: account 275 cash advance repayment is now **+$390.00** (was -$1,460). Employee Tips still carries the $1,850 debit from 70551.
