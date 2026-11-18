@@ -53,3 +53,5 @@ Bart approved invoicing the two missing deliveries at QBO item prices, with the 
 Not counted: "Instant Transfer to card ending 8654" ($1,000 3/18, $1,000 4/1, $5,000 6/16, $1,000 11/17). Zymurgy has booked these as Shareholder Distributions in the past; they did not go to Basic City checking.
 Zymurgy own books: every one of these outflows is still uncategorized in its bank feed (88 rows For Review), so its QBO shows no beer cost.
 Basic City A/R from Zymurgy after the 11/18 applications: $5,996.34 (7/30 $1,590.09, 10/15 $2,113.75, 11/5 $2,292.50); $4,146.34 if the $1,850 is a Zymurgy payment.
+
+Bart 2026-11-18: the "Instant Transfer to card ending 8654" rows in Zymurgy are **owner distributions** (Shareholders equity: Distributions), not payments to Basic City. Settled.
