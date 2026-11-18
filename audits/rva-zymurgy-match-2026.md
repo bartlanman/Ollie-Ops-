@@ -33,3 +33,6 @@ Chain: Basic City (QBO realm 1421738425) invoices **Zymurgy Synergy-PO (729)** -
 4. **Zymurgy's books are one-sided:** they record its sales to RVA and the deposits, but no bills or payments to Basic City, so its QBO shows the beer cost as $0.
 
 Nothing was changed in either QuickBooks company.
+
+## Resolved 2026-11-18
+Bart approved invoicing the two missing deliveries at QBO item prices, with the original dates: **#205373799 (id 73682) 2026-02-12 $3,846.00** and **#205373800 (id 73683) 2026-10-15 $2,113.75**. Basic City→Zymurgy 2026 total is now $48,453.95 over 16 invoices, one for each Zymurgy→RVA invoice. Still to do: add the Ollie-missing lines (Feb 2 Gringo sixtels; Oct 7 Cactus Garden 12oz, 3 Golden Child 12oz) to Ollie RVA Basic City.

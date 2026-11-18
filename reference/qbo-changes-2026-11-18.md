@@ -66,3 +66,11 @@ Category changed from **1301303 CANS** (inventory asset) to **5301350 CAN PACKAG
 - July 2026 taproom walk-in count: blank on Eve's July sheet.
 - Victory open A/P $12,300.48 and duplicate doc # 268182969: need Victory statement.
 - RVA: Ollie shows ~23 bbl more to RVA Basic City than QBO invoiced to Zymurgy Synergy in 2026.
+
+## 2026-11-18 (afternoon): RVA deliveries invoiced to Zymurgy Synergy-PO (approved by Bart)
+| QBO id | Doc # | Date | Customer | Total | Matches |
+|---|---|---|---|---|---|
+| 73682 | 205373799 | 2026-02-12 | Zymurgy Synergy-PO (729), loc DISTRIBUTION | $3,846.00 | Zymurgy #1124 to Bask RVA |
+| 73683 | 205373800 | 2026-10-15 | Zymurgy Synergy-PO (729), loc DISTRIBUTION | $2,113.75 | Zymurgy #1136 to Bask RVA |
+
+Priced at the QBO item list price (Bart: QB is the source of truth for pricing). Includes lines Zymurgy billed RVA for that Ollie never logged: Feb 2 GRINGO 1/6 BBL; Oct 7 Cactus Garden IPA 4/6pk and 3 Golden Child 4/6. Those need to be added in Ollie.
