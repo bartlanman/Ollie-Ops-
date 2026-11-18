@@ -74,3 +74,21 @@ Category changed from **1301303 CANS** (inventory asset) to **5301350 CAN PACKAG
 | 73683 | 205373800 | 2026-10-15 | Zymurgy Synergy-PO (729), loc DISTRIBUTION | $2,113.75 | Zymurgy #1136 to Bask RVA |
 
 Priced at the QBO item list price (Bart: QB is the source of truth for pricing). Includes lines Zymurgy billed RVA for that Ollie never logged: Feb 2 GRINGO 1/6 BBL; Oct 7 Cactus Garden IPA 4/6pk and 3 Golden Child 4/6. Those need to be added in Ollie.
+
+## Zymurgy Synergy QBO (realm 9130351439209336) changes, 2026-11-18 (approved by Bart: "yes")
+- **17 bills to vendor Basic City Beer Co (27), all to Cost of goods sold (24):**
+  - Bill 477 BCBC-2025-CARRY dated 2026-01-01, $3,575.68. This is the 2025 beer still unpaid at 12/31/25: $10,709.08 on Basic City's books, less the 12/10/25 $7,133.40 that Zymurgy already expensed in 2025. Zymurgy booked 2025 on payments, so 2025 is untouched.
+  - Bills 478-493, one for each 2026 Basic City invoice, with the same date and number, $48,453.95 in all.
+- **Bank feed matched as bill payments** (oldest bills first, leaving the same items open as Basic City's A/R):
+  - row 217 (1/28 $5,991.18): bill payment 494
+  - row 222 (3/11 $5,496.68): bill payment 497
+  - row 229 (4/6 $9,101.43): bill payment 499
+  - row 243 (8/2 $6,970): bill payment 503
+  - row 248 (9/16 $10,000): bill payment 506
+  - row 255 (11/8 $8,474): bill payment 514
+- **Owner distributions** (Shareholders' equity: Distributions, account 129): card-8654 instant transfers 3/18 $1,000 (510), 4/1 $1,000 (511), 6/16 $5,000 (512), 11/17 $1,000 (513).
+- **Fees:** instant-transfer fees 223/227/239/258 posted to Bank fees (517-520); row 221 matched to existing fee record 393.
+- **Result:** Zymurgy A/P to Basic City = **$5,996.34** = Basic City A/R from Zymurgy (7/30 $1,590.09, 10/15 $2,113.75, 11/5 $2,292.50).
+- **Left pending:**
+  - row 234, the 5/12 $1,850 Metalcraft ACH. Waiting on how Basic City books it: deposit 70552 is currently "cash advance repayment / CHANDLER CC".
+  - 72 feed rows from 2022-2025, not touched.
