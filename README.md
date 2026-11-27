@@ -10,6 +10,7 @@ Working knowledge base for an AI agent that audits, cleans up and automates the 
 | `reference/ollie_ops_reference.md` | How Ollie Ops works, paraphrased from all 88 articles in Ollie's help center: navigation, data model, workflows, QuickBooks posting behavior, dangerous actions, reports. Items marked **[inferred]** came from video-only articles and need checking in the app. |
 | `walkthrough/ui_notes.md` | What the real screens look like, verified in the live account. Wins over the reference when they disagree. |
 | `audits/2026-11-07_audit.md` | First full audit of the account, with findings and recommended cleanup order. |
+| `audits/2026-11-27_cellar_capacity.md` | Cellar capacity from Ollie tanks and recipes: about 6,100 bbl/yr today (lagering in brites, spill to fermenters); what Stage 2 must add for the recap plan |
 | `processes/finished-goods-and-taproom-transfers.md` | How finished goods are created (packaging) and depleted ($0 Sales invoices), the taproom transfer routine, and the QuickBooks connection plan. |
 
 ## Ground rules for the agent
@@ -18,6 +19,9 @@ Working knowledge base for an AI agent that audits, cleans up and automates the 
 3. No accounting-affecting change while QuickBooks is disconnected.
 4. Prefer fixing data at the source (brew log, PO, recipe) over adjustments.
 5. Record every change made, and why, in a dated log under `changes/`.
+
+## Cellar — settled, do not ask again (Bart, 2026-11-27)
+Lagers lager about two weeks in the **brites**; they can stay in the fermenter when the brites are full.
 
 ## Status (2026-11-18)
 - QuickBooks stays **disconnected on purpose** until the inventory cleanup is done (Bart, 2026-11-18). Don't reconnect.
